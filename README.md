@@ -26,4 +26,8 @@ La app:
 
 ***
 
+## DEVELOMENT
 
+[x] Check de API of OpenWeatherMap
+[x] Adapt code for that api.
+[] Return a msg when the lenght of `location` is zero on `app.js`. 
